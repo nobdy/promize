@@ -14,7 +14,7 @@ In order to facilitate the understanding of the principle of `Promise`, I wrote 
 [![size][size-image]][size-url]
 [![issue][issue-image]][issue-url]
 [![lic][lic-image]][lic-url]
-[![kw][kw-image]][kw-url]
+[![imp][imp-image]][imp-url]
 [![act][act-image]][act-url]
 [![fork][fork-image]][fork-url]
 [![star][star-image]][star-url]
@@ -33,8 +33,8 @@ In order to facilitate the understanding of the principle of `Promise`, I wrote 
 [issue-url]: https://github.com/nobdy/promize/issues
 [lic-image]: https://img.shields.io/github/license/nobdy/promize
 [lic-url]: https://github.com/nobdy/promize/blob/master/LICENSE
-[kw-image]: https://img.shields.io/github/package-json/keywords/nobdy/promize
-[kw-url]: https://github.com/nobdy/promize
+[imp-image]: https://img.shields.io/github/package-json/implements/nobdy/promize
+[imp-url]: https://github.com/nobdy/promize
 [act-image]: https://img.shields.io/github/last-commit/nobdy/promize
 [act-url]: https://github.com/nobdy/promize/graphs/commit-activity
 [fork-image]: https://img.shields.io/github/forks/nobdy/promize?label=Fork&style=social
