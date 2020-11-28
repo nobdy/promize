@@ -16,8 +16,6 @@ In order to facilitate the understanding of the principle of `Promise`, I wrote 
 [![lic][lic-image]][lic-url]
 [![imp][imp-image]][imp-url]
 [![act][act-image]][act-url]
-[![fork][fork-image]][fork-url]
-[![star][star-image]][star-url]
 
 [travis-image]: https://img.shields.io/travis/nobdy/promize.svg?style=flat
 [travis-url]: https://travis-ci.org/nobdy/promize
